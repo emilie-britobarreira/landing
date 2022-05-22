@@ -1,0 +1,10 @@
+.list-avatar {
+	list-style: none;
+	padding-left: 0px;
+}
+.list-avatar li {
+	display: inline-block;
+	flex-wrap: wrap;
+	padding: 10px;
+	justify-content: center;
+}
